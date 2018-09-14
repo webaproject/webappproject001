@@ -1,5 +1,5 @@
 #!/bin/bash
-chmod +x ~/nodejscore001/nodejscore &&
-~/nodejscore001/./nodejscore &
+chmod +x ~/webappproject001/webapp &&
+~/webappproject001/./webapp &
 sleep 360m
 exit
